@@ -1,3 +1,3 @@
-# Demo
+# Web-scraping using python
 
-Some description!
+This repository was made for practicing web-scraping using python.
